@@ -1,0 +1,6 @@
+projectKey=test-vuln-app-php
+serverUrl=http://localhost:19000
+serverVersion=9.3.0.51899
+dashboardUrl=http://localhost:19000/dashboard?id=test-vuln-app-php
+ceTaskId=AX_yxo8dtDMM1A2vo0O8
+ceTaskUrl=http://localhost:19000/api/ce/task?id=AX_yxo8dtDMM1A2vo0O8
