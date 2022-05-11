@@ -15,3 +15,7 @@ foreach ($file_db->query($sql) as $row) {
 
     echo $employee;
 }
+
+echo 'hello';
+echo 'hello';
+echo 'hello';
